@@ -1,0 +1,229 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: filetto;
+	src:url(../Filetto_regular.ttf);
+}
+	
+body{
+	font-family:filetto !important;
+}
+
+.ui-icon-miaplicacion-rana { 
+  background-image: url(/css/pink.png); 
+}
+
+.imagen{
+	background: url(../img/fondo.jpg) no-repeat center fixed;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	background-size: cover;
+	color: #FFF;
+}
+
+#inicio .ui-btn{
+    font-size: 1.2em;
+    background-color: rgba(3, 6, 3, 0.8) !important;
+}
+		
+.ui-footer{
+	height:7%;
+	background-image:url(../img/ban2.jpg) !important;
+	background-size:cover !important;
+	background-position:center !important;
+	background-repeat:no-repeat;
+	font-size:1.1em;
+    letter-spacing: 0.06em;
+}
+
+.ui-header{
+	background-image:url(../img/ban.png) !important;
+	background-size:cover !important;
+	background-position:center bottom !important;
+	background-repeat:no-repeat;
+	}
+	
+.imgbanner{
+	text-align:center;
+	max-width:100%;
+	height:auto;
+	}
+	
+.ui-btn{
+	font-family:filetto !important;
+}
+
+#contsinop{
+	width:100%;
+	text-align:center;
+	margin:auto;
+}
+
+#sinop2{
+	max-width:100%;
+	height:auto;
+}
+
+#sinopsis2 p{
+	width:80%;
+	margin:auto;
+	font-size:1.2em;
+	margin-bottom:0.2em;
+}
+
+#contimg{
+	width:90%;
+	margin-top:5%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:auto;
+	text-align:center;
+	display: inline-block;
+}
+
+.imgcollapsible{
+	max-width:100%;
+}
+
+#imgsinopsis{
+	font-family:filetto !important;
+	width:80%;
+	margin:auto;
+	margin-top:2%;
+}
+
+#fichatecnica h2{
+	font-family:filetto !important;
+	font-size:1.2em;
+    font-size-adjust:auto;
+}
+
+#fichatecnica p{
+	font-size:0.98em;
+    font-size-adjust:auto;
+}
+
+#contimg{
+	width:100%;
+	margin:auto;
+}
+
+#contimg img{
+	max-width:100%;
+	margin:auto;
+	margin-bottom:2%;
+}
+
+#fichatecnicalista{
+	width:80%;
+	margin:auto;
+	margin-bottom:3%;
+}
+
+.contenidolista .ui-collapsible-heading{
+	margin:auto;
+	max-width:50%;
+	min-width:300px
+}
+
+.contenidolista .ui-collapsible-content{
+	max-width:45%;
+	margin:auto;
+	min-width: 250px;
+}
+
+.contenidolista .ui-collapsible-content img{
+	width:100%;
+}
+
+#contenedorgrid{
+    width:90%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    padding-left: 12%;
+}
+
+#contenedorgrid img{
+    max-width: 100%;
+}
+
+.ui-block-a{
+    width: 40%;
+    margin-right: 3%;
+    margin-bottom: 1%;
+    display: inline-block;
+    background-color: #242424;
+}
+
+.ui-block-b{
+    width: 40%;
+    margin-bottom: 1%;
+    display: inline-block;
+    background-color: #242424;
+    border-color: transparent;
+}
+
+.ui-bar{
+    background-color: #333333;
+    border-color: transparent;
+}
+
+#imgseason1{
+	width:80%;
+	margin:auto;
+	margin-top:2%;
+    text-align: center;
+}
+
+#imgseason1 img{
+	max-width:100%;
+	margin-bottom:2%;
+}
+
+
+#temporada1content p{
+    margin-bottom: 4%;
+    width:75%;
+	margin:auto;
+	font-size:1.0em;
+	margin-bottom:0.6em;
+}
+
+#temporada1content h2{
+    margin-right: 16%;
+}
+
+
+#imgseason2{
+	width:80%;
+	margin:auto;
+	margin-top:2%;
+    text-align: center;
+}
+
+#imgseason2 img{
+	max-width:100%;
+	margin-bottom:2%;
+}
+
+#acercade{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+#acercade h1{
+    font-size: 3em;
+}
+
+#bnrtruedetective{
+    max-width: 100%;
+    height: auto;
+}
+
+#contimagenacercade{
+    text-align: center;
+}
+	
